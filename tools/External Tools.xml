@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="webstorm-eslint-fix" description="es lint fix" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.nvm/versions/node/v18.14.0/bin/eslint" />
+      <option name="PARAMETERS" value="--fix &quot;$FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
