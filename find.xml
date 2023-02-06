@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'observer-pattern-js'" />
-    <option name="defaultScopeName" value="Project 'observer-pattern-js'" />
-    <option name="SEARCH_SCOPE" value="Project 'observer-pattern-js'" />
+    <option name="customScope" value="Project 'callback-hells-nodejs'" />
+    <option name="defaultScopeName" value="Project 'callback-hells-nodejs'" />
+    <option name="SEARCH_SCOPE" value="Project 'callback-hells-nodejs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
