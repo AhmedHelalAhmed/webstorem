@@ -1,5 +1,6 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
+    <notification groupId="SCSS Lint" shouldLog="false" />
     <notification groupId="tabnine" displayType="NONE" shouldLog="false" />
   </component>
 </application>
